@@ -17,8 +17,6 @@ post_date: 2017-12-18 22:58:13
 
 [tabby title="Submit"]
 
-Form
-
 [wpuf_form id="935"]
 
 [tabbyending]
