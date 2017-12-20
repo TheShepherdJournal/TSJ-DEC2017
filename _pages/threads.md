@@ -1,6 +1,6 @@
 ---
 ID: 718
-post_title: Threads
+post_title: Publications
 author: Jon
 post_excerpt: ""
 layout: page
