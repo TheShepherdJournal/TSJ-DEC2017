@@ -1,6 +1,6 @@
 ---
 ID: 946
-post_title: Knowledge Base
+post_title: Collections
 author: Jon
 post_excerpt: ""
 layout: page
