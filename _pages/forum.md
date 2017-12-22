@@ -9,3 +9,4 @@ permalink: >
 published: true
 post_date: 2017-12-22 10:19:49
 ---
+[forum]
