@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-12-29 18:35:45
 ---
-&nbsp;
+<img class="alignnone size-medium wp-image-999" src="http://shepherdjournal.shepherdmaplesyrupfestival.com/wp-content/uploads/2017/12/null-2-232x300.png" alt="" width="232" height="300" />
 
 A Scrapbooking crop hosted by the Shepherd Community Friends of the Library will be held on January 20 from 8 a.m. until 8 p.m. inside the Coe Township Hall in Shepherd Michigan. Registration for the event is $35 per person and covers the following:
 <ul>
